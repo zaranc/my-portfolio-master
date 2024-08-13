@@ -650,7 +650,7 @@ header {
 
 .developer-about__img .about-me {
   margin-bottom: 9px;
-  border-radius: 0 0 330px 330px;
+  border-radius: 330px 330px 330px 330px;
   -o-object-fit: cover;
   object-fit: cover;
   width: 542px;
